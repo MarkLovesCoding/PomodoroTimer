@@ -55,6 +55,8 @@ h1 {
 h1:hover {
   text-shadow: 0px 0px 80px #33ff00; }
 
+
+
 h4 {
   text-align: center;
   font-family: Righteous;
@@ -77,9 +79,7 @@ header {
 
 #clockTime {
   margin-top: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center; }
+  display: contents; }
 
 .breakText {
   color: lightblue;
