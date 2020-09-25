@@ -25,6 +25,7 @@ h1:hover {
   text-shadow: 0px 0px 80px #33ff00;
 }
 
+
 h4 {
   text-align: center;
   font-family: Righteous;
@@ -76,6 +77,9 @@ header {
 
 #clockTime {
   margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .breakText {
@@ -85,10 +89,11 @@ header {
   line-height: 30px;
   opacity: 0.5;
   text-shadow: 0px 0px 2px blue;
+  text-align:center;
 }
 .pomoText {
   font-size: 2.25rem;
-
+  text-align:center;
   padding-bottom: 5px;
   color: #33ff00;
   line-height: 50px;
